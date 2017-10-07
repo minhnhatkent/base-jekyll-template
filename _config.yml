@@ -2,8 +2,8 @@
 # Site
 
 title: Base
-url: "https://orange-ape.cloudvent.net/"
-baseurl:
+url: "http://moneysite.explaindemy.com"
+baseurl: "http://moneysite.explaindemy.com"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
